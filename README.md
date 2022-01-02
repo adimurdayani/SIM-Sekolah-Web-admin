@@ -15,6 +15,7 @@
 - Siswa & CRUD
 - Rapot
 - Dan lain-lain
+- Di lengkapi dengan aplikasi android yang dapat digunakan untuk siswa dan guru https://github.com/adimurdayani/SIM-Sekolah-Android.git
 
 ## Install
 
